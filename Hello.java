@@ -35,5 +35,26 @@ class Hello {
         // System.out.println(c);
 
         // 5. Type Conversion in Java
+        // byte b = 127;
+        // int i = b; // Byte to Integer
+        // System.out.println(i);
+
+        // int i = 5;
+        // byte b = i; // ❌ Never Works Integer to Byte
+        // byte b = (byte) 5; // Integer to Byte
+        // System.out.println(b);
+
+        // int i = 555;
+        // byte b = (byte) i;
+        // System.out.println(b);
+
+        // float f = 55.6f;
+        // int i = (int) f;
+        // System.out.println(i);
+
+        // byte b1 = 100;
+        // byte b2 = 2;
+        // int result = b1 * b2;
+        // System.out.println(result);
     }
 }
