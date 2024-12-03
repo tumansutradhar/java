@@ -1,10 +1,10 @@
 class Hello {
     public static void main(String a[]) {
 
-        // 1. First Code in Java
+        // 1. First Code In Java
         // System.out.println("Hello World");
 
-        // 2. Variable in Java
+        // 2. Variable In Java
         // int num1 = 3;
         // int num2 = 3;
         // int result = num1 + num2;
@@ -23,7 +23,7 @@ class Hello {
 
         // boolean bl = true;
 
-        // 4. Literal in Java
+        // 4. Literal In Java
         // int num = 0b101; // Binary Convert
         // int num = 0x8E; // Hexadecimal Convert
         // int num = 10_00_11;
@@ -55,6 +55,35 @@ class Hello {
         // byte b1 = 100;
         // byte b2 = 2;
         // int result = b1 * b2;
+        // System.out.println(result);
+
+        // 6. Arithmetic Operators In Java
+        // int num1 = 7;
+        // int num2 = 5;
+        // int result = num1 + num2;
+        // int result = num1 - num2;
+        // int result = num1 * num2;
+        // int result = num1 / num2; // This Gives The Quotient Of The Division
+        // int result = num1 % num2; // This Gives The Remainder Of The Division
+        // System.out.println(result);
+
+        // int i = 5;
+        // i = i + 2;
+        // i += 2;
+        // i -= 2;
+        // i *= 2;
+        // i /= 2;
+
+        // i++; // Post Increment
+        // i--; // Post Decrement
+
+        // ++i; // Pre Increment
+        // --i; // Pre Decrement
+
+        // System.out.println(i);
+
+        // int result = ++i; // "i" Is Incremented First, And Then The Value Of "i" Is Assigned To "result"
+        // int result = i++; // The Current Value Of "i" Is Assigned To "result", And Then "i" Is Incremented
         // System.out.println(result);
     }
 }
