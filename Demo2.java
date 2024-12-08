@@ -1,4 +1,4 @@
-public class Demo {
+public class Demo2 {
     public static void main(String[] args) {
         // 7. Relational Operators In Java
         // int x = 8;

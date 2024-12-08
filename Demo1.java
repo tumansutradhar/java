@@ -1,4 +1,4 @@
-class Hello {
+class Demo1 {
     public static void main(String a[]) {
         // 1. First Code In Java
         // System.out.println("Hello World");
