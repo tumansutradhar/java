@@ -57,5 +57,41 @@ public class Demo {
         // boolean result = x > y;
 
         // System.out.println(!result);
+
+        // 9. Conditional Statement In Java
+        // int x = 7;
+        // int y = 8;
+
+        // if (x > y) {
+        // System.out.print("X is: ");
+        // System.out.println(x);
+        // } else {
+        // System.out.print("Y is: ");
+        // System.out.println(y);
+        // }
+
+        // int a = 8;
+        // int b = 10;
+        // int c = 5;
+
+        // if (a > b && a > c)
+        // System.out.println("a is Grater than b & c");
+        // else if (b > a && b > c)
+        // System.out.println("b is Grater than a & c");
+        // else
+        // System.out.println("c is Grater than b & a");
+
+        // 10. Ternary Operator In Java
+        // int i = 4;
+        // int result = 0;
+
+        // if (i % 2 == 0)
+        // result = 10;
+        // else
+        // result = 20;
+
+        // result = i % 2 == 0 ? 10 : 20;
+
+        // System.out.println(result);
     }
 }
