@@ -93,5 +93,93 @@ public class Demo {
         // result = i % 2 == 0 ? 10 : 20;
 
         // System.out.println(result);
+
+        // 11. Switch Statement In Java
+        // int i = 1;
+
+        // if (i == 1)
+        // System.out.println("Sunday");
+        // else if (i == 2)
+        // System.out.println("Monday");
+        // else if (i == 3)
+        // System.out.println("Tuesday");
+        // else if (i == 4)
+        // System.out.println("Wednesday");
+        // else if (i == 5)
+        // System.out.println("Thursday");
+        // else if (i == 6)
+        // System.out.println("Friday");
+        // else
+        // System.out.println("Saturday");
+
+        // int i = 8;
+
+        // switch (i) {
+        // case 1:
+        // System.out.println("Sunday");
+        // break;
+        // case 2:
+        // System.out.println("Monday");
+        // break;
+        // case 3:
+        // System.out.println("Tuesday");
+        // break;
+        // case 4:
+        // System.out.println("Wednesday");
+        // break;
+        // case 5:
+        // System.out.println("Thursday");
+        // break;
+        // case 6:
+        // System.out.println("Friday");
+        // break;
+        // case 7:
+        // System.out.println("Saturday");
+        // break;
+        // default:
+        // System.out.println("Enter NUMBER between 1 to 7");
+        // break;
+        // }
+
+        // String day = "Sunday";
+
+        // switch (day) {
+        // case "Monday", "Tuesday", "Wednesday", "Thursday", "Friday":
+        // System.out.println("College Start from 10am");
+        // break;
+        // default:
+        // System.out.println("Holiday");
+        // break;
+        // }
+
+        // switch (day) {
+        // case "Monday", "Tuesday", "Wednesday", "Thursday", "Friday" ->
+        // System.out.println("College Start from 10am");
+        // default ->
+        // System.out.println("Holiday");
+        // }
+
+        // String day = "Sunday";
+        // String totalClass = "";
+
+        // switch (day) {
+        // case "Sunday", "Saturday" -> totalClass = "No class It's Holiday";
+        // default -> totalClass = "5";
+        // }
+
+        // totalClass = switch (day) {
+        // case "Sunday", "Saturday" -> "No class It's Holiday";
+        // default -> "5";
+        // };
+
+        // If you want to use ":" then use "yield"
+        // totalClass = switch (day) {
+        // case "Sunday", "Saturday":
+        // yield "No class It's Holiday";
+        // default:
+        // yield "5";
+        // };
+
+        // System.out.println(totalClass);
     }
 }
