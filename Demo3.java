@@ -1,6 +1,6 @@
 public class Demo3 {
     public static void main(String[] args) {
-        // 12. For Loop In Java
+        // 12. Loops In Java
         // a) While Loop
         // int i = 1;
 
