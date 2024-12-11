@@ -31,6 +31,14 @@
 //     }
 // }
 
+// class stackHeap {
+//     int c;
+
+//     public int add(int a, int b) {
+//         return a + b;
+//     }
+// }
+
 public class Demo4 {
     public static void main(String[] args) {
         // 13. Class & Object Theory In Java
@@ -60,5 +68,11 @@ public class Demo4 {
         // System.out.println(r1);
         // System.out.println(r2);
         // System.out.println(r3);
+
+        // 16. Stack And Heap In Java
+        // stackHeap obj = new stackHeap();
+        // int result = obj.add(5, 6);
+
+        // System.out.println(result);
     }
 }
