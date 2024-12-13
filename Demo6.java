@@ -67,5 +67,10 @@ public class Demo6 {
         // System.out.println(str.hashCode());
         // System.out.println(str.concat(" Sutradhar"));
 
+        // 23. Mutable(Change) VS Immutable(Unchanged) String In Java
+        // String name = "Tuman";
+        // name = name + " Sutradhar";
+
+        // System.out.println(name);
     }
 }
