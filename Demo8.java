@@ -31,41 +31,41 @@
 // }
 
 // class newStudent {
-// private String name;
-// private int roll;
+//     private String name;
+//     private int roll;
 
-// public String getName() {
-// return name;
-// }
+//     public String getName() {
+//         return name;
+//     }
 
-// public void setName(String name) {
-// this.name = name;
-// }
+//     public void setName(String name) {
+//         this.name = name;
+//     }
 
-// public int getRoll() {
-// return roll;
-// }
+//     public int getRoll() {
+//         return roll;
+//     }
 
-// public void setRoll(int roll) {
-// this.roll = roll;
-// }
+//     public void setRoll(int roll) {
+//         this.roll = roll;
+//     }
 // }
 
 // class thisKeyword {
-// int a;
+//     int a;
 
-// public int getA() {
-// return a;
-// }
+//     public int getA() {
+//         return a;
+//     }
 
-// public void setA(int a, thisKeyword b) {
-// thisKeyword c = b;
-// c.a = a;
-// }
+//     public void setA(int a, thisKeyword b) {
+//         thisKeyword c = b;
+//         c.a = a;
+//     }
 
-// public void setA(int a) {
-// this.a = a;
-// }
+//     public void setA(int a) {
+//         this.a = a;
+//     }
 // }
 
 public class Demo8 {
