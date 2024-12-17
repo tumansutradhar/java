@@ -3,11 +3,11 @@
 //     private int roll = 20223045;
 
 //     public String testName() {
-//     return name;
+//         return name;
 //     }
 
 //     public int testRoll() {
-//     return roll;
+//         return roll;
 //     }
 
 //     private String name;
@@ -28,29 +28,44 @@
 //     public void setRoll(int i) {
 //         roll = i;
 //     }
-
 // }
 
 // class newStudent {
-//     private String name;
-//     private int roll;
+// private String name;
+// private int roll;
 
-//     public String getName() {
-//         return name;
-//     }
+// public String getName() {
+// return name;
+// }
 
-//     public void setName(String name) {
-//         this.name = name;
-//     }
+// public void setName(String name) {
+// this.name = name;
+// }
 
-//     public int getRoll() {
-//         return roll;
-//     }
+// public int getRoll() {
+// return roll;
+// }
 
-//     public void setRoll(int roll) {
-//         this.roll = roll;
-//     }
+// public void setRoll(int roll) {
+// this.roll = roll;
+// }
+// }
 
+// class thisKeyword {
+// int a;
+
+// public int getA() {
+// return a;
+// }
+
+// public void setA(int a, thisKeyword b) {
+// thisKeyword c = b;
+// c.a = a;
+// }
+
+// public void setA(int a) {
+// this.a = a;
+// }
 // }
 
 public class Demo8 {
@@ -74,5 +89,15 @@ public class Demo8 {
         // s.setRoll(45);
 
         // System.out.println(s.getName() + " & " + s.getRoll());
+
+        // 29. This Keyword In Java
+        // thisKeyword abc = new thisKeyword();
+        // abc.setA(89, abc);
+
+        // System.out.println(abc.getA());
+
+        // abc.setA(60);
+
+        // System.out.println(abc.getA());
     }
 }
