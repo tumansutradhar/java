@@ -39,7 +39,7 @@
 
 public class Demo9 {
     public static void main(String[] args) {
-        // 30. Constructor In Java
+        // 31. Constructor In Java
         // Constructor std = new Constructor();
 
         // System.out.println("The Name is: " + std.name + " & The Roll is: " +
@@ -51,7 +51,7 @@ public class Demo9 {
         // System.out.println("The Name is: " + std.name + " & The Roll is: " +
         // std.roll);
 
-        // 31. Default VS Parameterized Constructor In Java
+        // 32. Default VS Parameterized Constructor In Java
         // newConstructor newCtr = new newConstructor(); // Default Constructor
 
         // System.out.println("The Name is: " + newCtr.name + " & The Roll is: " +
@@ -63,7 +63,7 @@ public class Demo9 {
         // System.out.println("The Name is: " + newCtr1.name + " & The Roll is: " +
         // newCtr1.roll);
 
-        // 32. Anonymous Object In Java
+        // 33. Anonymous Object In Java
         // new Anonymous(); // This is Anonymous Object
         // new Anonymous().show();
     }
