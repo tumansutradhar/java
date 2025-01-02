@@ -69,7 +69,7 @@ public class Demo4 {
         // System.out.println(r2);
         // System.out.println(r3);
 
-        // 16. Stack And Heap In Java
+        // 16. Stack & Heap In Java
         // stackHeap obj = new stackHeap();
         // int result = obj.add(5, 6);
 

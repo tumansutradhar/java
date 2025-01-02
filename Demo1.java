@@ -33,7 +33,7 @@ class Demo1 {
         // c++; // Increment Character
         // System.out.println(c);
 
-        // 5. Type Conversion in Java
+        // 5. Type Conversion In Java
         // byte b = 127;
         // int i = b; // Byte to Integer
         // System.out.println(i);

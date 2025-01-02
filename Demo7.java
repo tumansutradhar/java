@@ -45,7 +45,7 @@
 
 public class Demo7 {
     public static void main(String[] args) throws ClassNotFoundException {
-        // 23. StringBuffer & StringBuilder In Java
+        // 24. StringBuffer & StringBuilder In Java
         // StringBuffer sb = new StringBuffer();
         // StringBuffer sb1 = new StringBuffer("Tuman");
 
@@ -55,7 +55,7 @@ public class Demo7 {
         // System.out.println(sb1.capacity());
         // System.out.println(sb1);
 
-        // 24. Static Variable In Java
+        // 25. Static Variable In Java
         // staticVar obj1 = new staticVar();
         // obj1.brand = "Samsung";
         // obj1.price = 17500;
@@ -71,7 +71,7 @@ public class Demo7 {
         // obj1.show();
         // obj2.show();
 
-        // 25. Static Method In Java
+        // 26. Static Method In Java
         // staticMethod obj1 = new staticMethod();
         // obj1.brand = "Samsung";
         // obj1.price = 17500;
@@ -89,7 +89,7 @@ public class Demo7 {
 
         // staticMethod.test(obj1);
 
-        // 26. Static Block In Java
+        // 27. Static Block In Java
         // staticBlock obj1 = new staticBlock();
         // obj1.brand = "Samsung";
         // obj1.price = 17500;

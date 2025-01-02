@@ -70,7 +70,7 @@
 
 public class Demo8 {
     public static void main(String[] args) {
-        // 27. Encapsulation In Java
+        // 28. Encapsulation In Java
         // Student a = new Student();
         // a.name = "Tuman";
         // a.roll = 20223045;
@@ -83,14 +83,14 @@ public class Demo8 {
 
         // System.out.println(a.testName() + " & " + a.testRoll());
 
-        // 28. Getters & Setters In Java
+        // 29. Getters & Setters In Java
         // newStudent s = new newStudent();
         // s.setName("Bishal");
         // s.setRoll(45);
 
         // System.out.println(s.getName() + " & " + s.getRoll());
 
-        // 29. This Keyword In Java
+        // 30. This Keyword In Java
         // thisKeyword abc = new thisKeyword();
         // abc.setA(89, abc);
 
