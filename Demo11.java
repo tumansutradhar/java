@@ -1,6 +1,11 @@
 // import Packages.Calculator;
+// import AccessModifiers.*;
 
-import AccessModifiers.*;
+// class d extends Modifiers1 {
+//     public void f() {
+//         System.out.println(c);
+//     }
+// }
 
 public class Demo11 {
     public static void main(String[] args) {
@@ -12,13 +17,11 @@ public class Demo11 {
         // System.out.println(result);
 
         // 39. Access Modifiers In Java
-        Modifiers1 obj = new Modifiers1();
+        // Modifiers1 obj = new Modifiers1();
 
-        System.out.println(obj.a);
+        // System.out.println(obj.a);
 
-        Modifiers2 obj2 = new Modifiers2();
-
-        System.out.println(obj2.a);
+        // Modifiers2 obj2 = new Modifiers2();
 
     }
 }
