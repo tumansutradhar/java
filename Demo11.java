@@ -13,7 +13,7 @@
 //     }
 // }
 
-// class DynamicMethodDispatch extends Dynamic {
+// class dynamicMethodDispatch extends Dynamic {
 //     public void show() {
 //         System.out.println("In Dynamic Method Dispatch Class");
 //     }
@@ -29,7 +29,7 @@
 //     }
 // }
 
-// class AdvanceCalculator extends Calculator {
+// class advanceCalculator extends Calculator {
 //     public void subtraction(int n1, int n2) {
 //         System.out.println(n1 - n2);
 //     }
@@ -76,7 +76,7 @@ public class Demo11 {
         // DynamicMethodDispatch dmp = new DynamicMethodDispatch();
         // dmp.show();
 
-        // Dynamic d = new DynamicMethodDispatch(); // "d" Type Is "dynamic" & Its Implementation Is From The Class "DynamicMethodDispatch"
+        // Dynamic d = new dynamicMethodDispatch(); // "d" Type Is "dynamic" & Its Implementation Is From The Class "DynamicMethodDispatch"
         // d.show();
 
         // 42. Final Keyword In Java [Final Means Constant]

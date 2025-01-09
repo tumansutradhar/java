@@ -38,13 +38,13 @@
 //     }
 // }
 
-// class MyCalculator {
+// class myCalculator {
 //     public int add(int n1, int n2) {
 //         return n1 + n2;
 //     }
 // }
 
-// class CalculatorOverriding extends MyCalculator {
+// class calculatorOverriding extends myCalculator {
 //     public int add(int n1, int n2) {
 //         return n1 + n2 + 1;
 //     }
@@ -90,7 +90,7 @@ public class Demo10 {
         // obj.show();
         // obj.config();
 
-        // CalculatorOverriding calculator = new CalculatorOverriding();
+        // calculatorOverriding calculator = new calculatorOverriding();
 
         // int result = calculator.add(5, 4);
 
