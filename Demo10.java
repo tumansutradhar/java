@@ -1,6 +1,6 @@
 // class A {
 //     public A() {
-//         super(); // Every Constructor Has A super() Call, Even If You Don't Mention It Explicitly
+//         super(); // Every constructor has a "super()" call, even if you don't mention it explicitly
 //         System.out.println("In A");
 //     }
 

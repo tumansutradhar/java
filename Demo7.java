@@ -1,7 +1,7 @@
 // class staticVar {
 //     String brand;
 //     int price;
-//     static String type; //Static Variable Belongs To The Class Not To The Object
+//     static String type; //Static variable belongs to the class not to the object
 
 //     public void show() {
 //         System.out.println("The brand is " + brand + " & The price is " + price + " & The type is " + type);
@@ -66,7 +66,7 @@ public class Demo7 {
         // obj2.price = 14749;
         // staticVar.type = "Smart Phone";
 
-        // staticVar.type = "Cell Phone"; // This Affects Both obj1 & obj2
+        // staticVar.type = "Cell Phone"; // This affects both "obj1" & "obj2"
 
         // obj1.show();
         // obj2.show();

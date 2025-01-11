@@ -2,7 +2,7 @@
 //     String name;
 //     int roll;
 
-//     public Constructor() { // Constructor Name Should Be Same As Class Name
+//     public Constructor() { // Constructor name should be same as class name
 //         System.out.println("This is Constructor");
 //     }
 
@@ -57,8 +57,7 @@ public class Demo9 {
         // System.out.println("The Name is: " + newCtr.name + " & The Roll is: " +
         // newCtr.roll);
 
-        // newConstructor newCtr1 = new newConstructor("Tuman", 20223045); //
-        // Parameterized Constructor
+        // newConstructor newCtr1 = new newConstructor("Tuman", 20223045); // Parameterized Constructor
 
         // System.out.println("The Name is: " + newCtr1.name + " & The Roll is: " +
         // newCtr1.roll);

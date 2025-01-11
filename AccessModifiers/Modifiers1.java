@@ -8,9 +8,9 @@ package AccessModifiers;
 // }
 
 public class Modifiers1 {
-    // public int a = 99; // Using "public" It Can Access Everywhere
+    // public int a = 99; // Using "public" it can access everywhere
 
-    // private int b = 77; // Using "private" It Can Only Be Accessed Within This Class
+    // private int b = 77; // Using "private" it can only be accessed within this class
 
-    // protected int c = 55; // Using "protected" It Can Be Accessed Within The Same Package And By Subclasses
+    // protected int c = 55; // Using "protected" it can be accessed within the same package & by subclasses
 }

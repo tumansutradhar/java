@@ -67,31 +67,31 @@ public class Demo11 {
 
         // Modifiers2 obj2 = new Modifiers2();
 
-        // 40. Polymorphism In Java [Poly Means Many & Morphism Means Behavior]
-        // 1. Compile-time (or Static) Polymorphism: Achieved using method overloading
+        // 40. Polymorphism In Java [Poly means Many & Morphism means Behavior]
+        // a) Compile-time (or Static) Polymorphism: Achieved using method overloading
         // and operator overloading.
-        // 2. Runtime (or Dynamic) Polymorphism: Achieved using method overriding.
+        // b) Runtime (or Dynamic) Polymorphism: Achieved using method overriding.
 
         // 41. Dynamic Method Dispatch In Java
         // DynamicMethodDispatch dmp = new DynamicMethodDispatch();
         // dmp.show();
 
-        // Dynamic d = new dynamicMethodDispatch(); // "d" Type Is "dynamic" & Its Implementation Is From The Class "DynamicMethodDispatch"
+        // Dynamic d = new dynamicMethodDispatch(); // "d" type is "dynamic" & its implementation is from the class "DynamicMethodDispatch"
         // d.show();
 
-        // 42. Final Keyword In Java [Final Means Constant]
+        // 42. Final Keyword In Java [Final means Constant]
         // Final With -> Variable, Class, Method
-        // 1. Variable
+        // a) Variable
         // final int n = 99;
         // n = 100;
         // System.out.println(n);
 
-        // 2. Class
+        // b) Class
         // Calculator cal = new Calculator();
         // cal.show();
         // cal.add(5, 5);
 
-        // 3. Method
+        // c) Method
         // AdvanceCalculator advCal = new AdvanceCalculator();
         // advCal.show();
     }

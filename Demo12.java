@@ -40,21 +40,21 @@
 public class Demo12 {
     public static void main(String[] args) {
         // 43. Object Class toString(), equals(), hashCode() In Java
-        // 1. toString()
+        // a) toString()
         // Phone obj = new Phone();
         // obj.brand = "Samsung";
         // obj.price = 17500;
 
-        // System.out.println(obj); // By Default, Calls "obj.toString()"
+        // System.out.println(obj); // By default, calls "obj.toString()"
 
-        // 2. equals()
+        // b) equals()
         // Phone obj1 = new Phone();
         // obj1.brand = "Xiaomi";
         // obj1.price = 17500;
 
         // System.out.println(obj.equals(obj1));
 
-        // 3. hashCode()
+        // c) hashCode()
         // Phone obj1 = new Phone();
         // obj1.brand = "Apple";
         // obj1.price = 69999;
@@ -62,35 +62,35 @@ public class Demo12 {
         // System.out.println(obj1.hashCode());
 
         // 44. UpCasting & Downcasting In Java
-        // 1. Upcasting
+        // a) Upcasting
         // Casting obj = (Casting) new castingCopy();
         // obj.show1();
 
-        // 2. DownCasting
+        // b) DownCasting
         // castingCopy obj1 = (castingCopy) obj;
         // obj1.show2();
 
         // 45. Wrapper Class In Java
-        // 1. Boxing
+        // a) Boxing
         // int num1 = 99;
         // Integer num2 = new Integer(22);
 
         // System.out.println(num2);
 
-        // 2. Autoboxing
+        // b) Autoboxing
         // int num3 = 11;
         // Integer num4 = num3;
 
         // System.out.println(num4);
 
-        // 3. Unboxing
+        // c) Unboxing
         // int num5 = 33;
         // Integer num6 = num5;
         // int num7 = num6.intValue();
 
         // System.out.println(num7);
 
-        // 4. Auto-unboxing
+        // d) Auto-unboxing
         // int num8 = 33;
         // Integer num9 = num8;
         // int num10 = num9;

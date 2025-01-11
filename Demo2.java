@@ -22,8 +22,8 @@ public class Demo2 {
         // double x = 9.99;
         // double y = 10.4;
 
-        // boolean result = x <= y; // Less Than Equal
-        // boolean result = x >= y; // Greater Than Equal
+        // boolean result = x <= y; // Less than Equal
+        // boolean result = x >= y; // Greater than Equal
 
         // System.out.println(result);
 

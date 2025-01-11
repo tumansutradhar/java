@@ -39,7 +39,7 @@ class Demo1 {
         // System.out.println(i);
 
         // int i = 5;
-        // byte b = i; // ❌ Never Works Integer to Byte
+        // byte b = i; // Never works Integer to Byte
         // byte b = (byte) 5; // Integer to Byte
         // System.out.println(b);
 
@@ -62,8 +62,8 @@ class Demo1 {
         // int result = num1 + num2;
         // int result = num1 - num2;
         // int result = num1 * num2;
-        // int result = num1 / num2; // This Gives The Quotient Of The Division
-        // int result = num1 % num2; // This Gives The Remainder Of The Division
+        // int result = num1 / num2; // This gives the quotient of the division
+        // int result = num1 % num2; // This gives the remainder of the division
         // System.out.println(result);
 
         // int i = 5;
@@ -81,8 +81,8 @@ class Demo1 {
 
         // System.out.println(i);
 
-        // int result = ++i; // "i" Is Incremented First, And Then The Value Of "i" Is Assigned To "result"
-        // int result = i++; // The Current Value Of "i" Is Assigned To "result", And Then "i" Is Incremented
+        // int result = ++i; // "i" is incremented first, & then the value of "i" is assigned to "result"
+        // int result = i++; // The current value of "i" is assigned to "result", & then "i" is incremented
         // System.out.println(result);
     }
 }

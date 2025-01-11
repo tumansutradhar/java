@@ -5,7 +5,7 @@ public class Demo5 {
 
         // System.out.println(newArray[2]);
 
-        // newArray[2] = 99; // Replace The Value Of Index Number 2
+        // newArray[2] = 99; // Replace the value of index number 2
 
         // System.out.println(newArray[2]);
 
@@ -19,7 +19,7 @@ public class Demo5 {
 
         // System.out.println(num[4]);
 
-        // for (int i = 0; i <= 3; i++) { // Print All The Values Of Array
+        // for (int i = 0; i <= 3; i++) { // Print all the values of array
         // System.out.println(num[i]);
         // }
 
