@@ -25,6 +25,18 @@
 //     }
 // }
 
+// class Casting {
+//     public void show1() {
+//         System.out.println("Showing in parent class");
+//     }
+// }
+
+// class castingCopy extends Casting {
+//     public void show2() {
+//         System.out.println("Showing in child class");
+//     }
+// }
+
 public class Demo12 {
     public static void main(String[] args) {
         // 43. Object Class toString(), equals(), hashCode() In Java
@@ -49,6 +61,45 @@ public class Demo12 {
 
         // System.out.println(obj1.hashCode());
 
-        
+        // 44. UpCasting & Downcasting In Java
+        // 1. Upcasting
+        // Casting obj = (Casting) new castingCopy();
+        // obj.show1();
+
+        // 2. DownCasting
+        // castingCopy obj1 = (castingCopy) obj;
+        // obj1.show2();
+
+        // 45. Wrapper Class In Java
+        // 1. Boxing
+        // int num1 = 99;
+        // Integer num2 = new Integer(22);
+
+        // System.out.println(num2);
+
+        // 2. Autoboxing
+        // int num3 = 11;
+        // Integer num4 = num3;
+
+        // System.out.println(num4);
+
+        // 3. Unboxing
+        // int num5 = 33;
+        // Integer num6 = num5;
+        // int num7 = num6.intValue();
+
+        // System.out.println(num7);
+
+        // 4. Auto-unboxing
+        // int num8 = 33;
+        // Integer num9 = num8;
+        // int num10 = num9;
+
+        // System.out.println(num10);
+
+        // String str = "45";
+        // int num11 = Integer.parseInt(str);
+
+        // System.out.println(num11 * 2);
     }
 }
