@@ -35,24 +35,24 @@
 //     public abstract void display();
 // }
 
-interface myInterface {
-    int i = 66; // Final and static by default
-    String s = "Tuman"; // Final and static by default
+// interface myInterface {
+//     int i = 66; // Final and static by default
+//     String s = "Tuman"; // Final and static by default
 
-    void show();
+//     void show();
 
-    void display();
-}
+//     void display();
+// }
 
-class myClass implements myInterface {
-    public void show() {
-        System.out.println("In The Show");
-    }
+// class myClass implements myInterface {
+//     public void show() {
+//         System.out.println("In The Show");
+//     }
 
-    public void display() {
-        System.out.println("In The Display");
-    }
-}
+//     public void display() {
+//         System.out.println("In The Display");
+//     }
+// }
 
 public class Demo13 {
     public static void main(String[] args) {
