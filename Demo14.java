@@ -54,6 +54,10 @@
 //     }
 // }
 
+// enum Status {
+//     SUCCESS, FAILURE, PENDING, IN_PROGRESS, CANCELLED
+// }
+
 public class Demo14 {
     public static void main(String[] args) {
         // 51. More On Interfaces In Java
@@ -71,6 +75,39 @@ public class Demo14 {
         // dev.develop(laptop);
 
         // 53. Enumeration(Enum) In Java
-        
+        // Status s = Status.SUCCESS;
+
+        // System.out.println(s.ordinal()); // Print the index of the current status
+        // value
+
+        // Status[] t = Status.values();
+
+        // for (Status a : t) // Loop through the array and print each value
+        // System.out.println(a);
+
+        // 54. Enum If & Switch In Java
+        // Status u = Status.IN_PROGRESS;
+
+        // a) If Conditional Statements
+        // if (u == Status.SUCCESS)
+        //     System.out.println("Success");
+        // else if (u == Status.FAILURE)
+        //     System.out.println("Failure");
+        // else if (u == Status.PENDING)
+        //     System.out.println("Pending");
+        // else if (u == Status.IN_PROGRESS)
+        //     System.out.println("In Progress");
+        // else if (u == Status.CANCELLED)
+        //     System.out.println("Cancelled");
+
+        // b) Switch Case Statements
+        // switch (u) {
+        //     case SUCCESS -> System.out.println("Success");
+        //     case FAILURE -> System.out.println("Failure");
+        //     case PENDING -> System.out.println("Pending");
+        //     case IN_PROGRESS -> System.out.println("In Progress");
+        //     case CANCELLED -> System.out.println("Cancelled");
+        //     default -> System.out.println("N/A");
+        // }
     }
 }
