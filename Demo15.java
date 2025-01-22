@@ -41,6 +41,16 @@
 //     }
 // }
 
+// @FunctionalInterface
+// interface lambdaOperation {
+//     void operate();
+// }
+
+// @FunctionalInterface
+// interface Lambda {
+//     void number(int i);
+// }
+
 public class Demo15 {
     public static void main(String[] args) {
         // 55. Enum Class In Java
@@ -70,7 +80,18 @@ public class Demo15 {
         // System.out.println("Execute...");
         // }
         // };
-        
+
         // obj.execute();
+
+        // 58. Lambda Expression In Java
+        // lambdaOperation obj = () -> System.out.println("Lambda Operation");
+
+        // obj.operate();
+
+        // Lambda obj1 = (int a) -> System.out.print(a);
+        // Lambda obj2 = (a) -> System.out.println(a);
+
+        // obj1.number(2022);
+        // obj2.number(3045);
     }
 }
