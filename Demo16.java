@@ -3,6 +3,28 @@
 //     int add(int n1, int n2);
 // }
 
+// class CustomException extends Exception {
+//     public CustomException(String message) {
+//         super(message);
+//     }
+// }
+
+// class Throws {
+//     public void show() {
+//         try {
+//             Class.forName("override");
+//         } catch (ClassNotFoundException e) {
+//             System.out.println("Class Not Found Exception " + e.getMessage());
+//         }
+//     }
+// }
+
+// class newThrows {
+//     public void show() throws ClassNotFoundException {
+//         Class.forName("cal");
+//     }
+// }
+
 public class Demo16 {
     public static void main(String[] args) {
         // 59. Lambda Expression With Return
@@ -42,6 +64,48 @@ public class Demo16 {
         // System.out.println("Array Index Out Of Bounds Exception");
         // } catch (Exception e) {
         // System.out.println(e.getMessage());
+        // }
+
+        // 63. Exception Throw Keyword In Java
+        // try {
+        // int age = 17;
+
+        // if (age < 18) {
+        // throw new IllegalArgumentException("Age must be greater than 18");
+        // }
+        // System.out.println("Age is valid");
+        // } catch (Exception e) {
+        // System.out.println(e.getMessage());
+        // }
+
+        // 64. Custom Exception In Java
+        // int i = 20;
+        // int j = 0;
+
+        // try {
+        // j = 18 / i;
+
+        // if (j == 0) {
+        // throw new CustomException("Not divide by " + i);
+        // }
+        // System.out.println("Division is valid");
+        // } catch (CustomException e) {
+        // j = 18 / 1;
+        // System.out.println("Caught a custom exception: " + e.getMessage());
+        // } catch (Exception e) {
+        // System.out.println("An error occurred: " + e.getMessage());
+        // }
+
+        // 65. Ducking Exception Using Throws In Java
+        // Throws obj = new Throws();
+        // obj.show();
+
+        // newThrows obj1 = new newThrows();
+
+        // try {
+        // obj1.show();
+        // } catch (ClassNotFoundException e) {
+        // e.printStackTrace();
         // }
     }
 }
