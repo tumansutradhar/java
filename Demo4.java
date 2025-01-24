@@ -5,6 +5,10 @@
 //     }
 // }
 
+// =============================================
+
+// =============================================
+
 // class Store {
 //     public void music() {
 //         System.out.println("Play the Music");
@@ -16,6 +20,10 @@
 //         return "You Can't Buy a Pen";
 //     }
 // }
+
+// =============================================
+
+// =============================================
 
 // class overLoading {
 //     public int add(int num1, int num2) {
@@ -30,6 +38,10 @@
 //         return num1 + num2;
 //     }
 // }
+
+// =============================================
+
+// =============================================
 
 // class stackHeap {
 //     int c;
@@ -52,12 +64,20 @@ public class Demo4 {
 
         // System.out.println(result);
 
+        // =============================================
+
+        // =============================================
+
         // 14. Methods In Java
         // Store obj = new Store();
         // obj.music();
 
         // String str = obj.buyPen(5);
         // System.out.println(str);
+
+        // =============================================
+
+        // =============================================
 
         // 15. Method Overloading In Java
         // overLoading obj = new overLoading();
@@ -68,6 +88,10 @@ public class Demo4 {
         // System.out.println(r1);
         // System.out.println(r2);
         // System.out.println(r3);
+
+        // =============================================
+
+        // =============================================
 
         // 16. Stack & Heap In Java
         // stackHeap obj = new stackHeap();

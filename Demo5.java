@@ -23,6 +23,10 @@ public class Demo5 {
         // System.out.println(num[i]);
         // }
 
+        // =============================================
+
+        // =============================================
+
         // 18. Multi Dimensional Array In Java
         // int mulArray[][] = new int[2][4];
 
@@ -45,6 +49,10 @@ public class Demo5 {
         // }
         // System.out.println();
         // }
+
+        // =============================================
+
+        // =============================================
 
         // 19. Jagged And 3D Array In Java
         // int array[][] = new int[2][]; // Jagged

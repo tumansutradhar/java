@@ -46,6 +46,10 @@ public class Demo6 {
         // System.out.println(students[i].name + ": " + students[i].rollno);
         // }
 
+        // =============================================
+
+        // =============================================
+
         // 21. Enhanced For Loop In Java
         // int a[] = new int[4];
 
@@ -59,6 +63,10 @@ public class Demo6 {
         // }
         // System.out.println();
 
+        // =============================================
+
+        // =============================================
+
         // 22. String In Java
         // String str = new String("Tuman");
 
@@ -66,6 +74,10 @@ public class Demo6 {
         // System.out.println(str.charAt(3));
         // System.out.println(str.hashCode());
         // System.out.println(str.concat(" Sutradhar"));
+
+        // =============================================
+
+        // =============================================
 
         // 23. Mutable(Change) VS Immutable(Unchanged) String In Java
         // String name = "Tuman";

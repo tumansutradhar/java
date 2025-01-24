@@ -3,11 +3,19 @@ class Demo1 {
         // 1. First Code In Java
         // System.out.println("Hello World");
 
+        // =============================================
+
+        // =============================================
+
         // 2. Variable In Java
         // int num1 = 3;
         // int num2 = 3;
         // int result = num1 + num2;
         // System.out.println(result);
+
+        // =============================================
+
+        // =============================================
 
         // 3. Data Types In Java
         // int i = 3;
@@ -22,6 +30,10 @@ class Demo1 {
 
         // boolean bl = true;
 
+        // =============================================
+
+        // =============================================
+
         // 4. Literal In Java
         // int num = 0b101; // Binary Convert
         // int num = 0x8E; // Hexadecimal Convert
@@ -32,6 +44,10 @@ class Demo1 {
         // char c = 'a';
         // c++; // Increment Character
         // System.out.println(c);
+
+        // =============================================
+
+        // =============================================
 
         // 5. Type Conversion In Java
         // byte b = 127;
@@ -55,6 +71,10 @@ class Demo1 {
         // byte b2 = 2;
         // int result = b1 * b2;
         // System.out.println(result);
+
+        // =============================================
+
+        // =============================================
 
         // 6. Arithmetic Operators In Java
         // int num1 = 7;

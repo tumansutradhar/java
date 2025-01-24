@@ -30,6 +30,10 @@
 //     }
 // }
 
+// =============================================
+
+// =============================================
+
 // class newStudent {
 //     private String name;
 //     private int roll;
@@ -50,6 +54,10 @@
 //         this.roll = roll;
 //     }
 // }
+
+// =============================================
+
+// =============================================
 
 // class thisKeyword {
 //     int a;
@@ -83,12 +91,20 @@ public class Demo8 {
 
         // System.out.println(a.testName() + " & " + a.testRoll());
 
+        // =============================================
+
+        // =============================================
+
         // 29. Getters & Setters In Java
         // newStudent s = new newStudent();
         // s.setName("Bishal");
         // s.setRoll(45);
 
         // System.out.println(s.getName() + " & " + s.getRoll());
+
+        // =============================================
+
+        // =============================================
 
         // 30. This Keyword In Java
         // thisKeyword abc = new thisKeyword();

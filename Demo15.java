@@ -16,6 +16,10 @@
 //     }
 // }
 
+// =============================================
+
+// =============================================
+
 // class Annotation {
 //     public void show() {
 //         System.out.println("Message from the annotation class!");
@@ -29,17 +33,25 @@
 //     }
 // }
 
+// =============================================
+
+// =============================================
+
 // @FunctionalInterface
 // interface Sam { // Single Abstract Method (SAM) interfaces or functional interface
 //     void execute(); // Single abstract method
 //     // void run(); // This won't work because a functional interface can only have one abstract method
 // }
 
-// class functional implements Sam {
+// class Functional implements Sam {
 //     public void execute() {
 //         System.out.println("Execute...");
 //     }
 // }
+
+// =============================================
+
+// =============================================
 
 // @FunctionalInterface
 // interface lambdaOperation {
@@ -66,12 +78,20 @@ public class Demo15 {
         // System.out.println("Price of " + laptop + ": " + laptop.getPrice());
         // }
 
+        // =============================================
+
+        // =============================================
+
         // 56. Annotation In Java
         // newAnnotation obj = new newAnnotation();
         // obj.show();
 
+        // =============================================
+
+        // =============================================
+
         // 57. Functional Interface New In Java
-        // Sam obj = new functional();
+        // Sam obj = new Functional();
 
         // obj.execute();
 
@@ -82,6 +102,10 @@ public class Demo15 {
         // };
 
         // obj.execute();
+
+        // =============================================
+
+        // =============================================
 
         // 58. Lambda Expression In Java
         // lambdaOperation obj = () -> System.out.println("Lambda Operation");

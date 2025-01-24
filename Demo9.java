@@ -12,6 +12,10 @@
 //     }
 // }
 
+// =============================================
+
+// =============================================
+
 // class newConstructor {
 //     String name;
 //     int roll;
@@ -26,6 +30,10 @@
 //         this.roll = roll;
 //     }
 // }
+
+// =============================================
+
+// =============================================
 
 // class Anonymous {
 //     public Anonymous() {
@@ -51,6 +59,10 @@ public class Demo9 {
         // System.out.println("The Name is: " + std.name + " & The Roll is: " +
         // std.roll);
 
+        // =============================================
+
+        // =============================================
+
         // 32. Default VS Parameterized Constructor In Java
         // newConstructor newCtr = new newConstructor(); // Default Constructor
 
@@ -61,6 +73,10 @@ public class Demo9 {
 
         // System.out.println("The Name is: " + newCtr1.name + " & The Roll is: " +
         // newCtr1.roll);
+
+        // =============================================
+
+        // =============================================
 
         // 33. Anonymous Object In Java
         // new Anonymous(); // This is Anonymous Object

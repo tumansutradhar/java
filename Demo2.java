@@ -27,6 +27,10 @@ public class Demo2 {
 
         // System.out.println(result);
 
+        // =============================================
+
+        // =============================================
+
         // 8. Logical Operators In Java
         // a) AND Operator(&&):
         // true && true -> true
@@ -58,6 +62,10 @@ public class Demo2 {
 
         // System.out.println(!result);
 
+        // =============================================
+
+        // =============================================
+
         // 9. Conditional Statement In Java
         // int x = 7;
         // int y = 8;
@@ -81,6 +89,10 @@ public class Demo2 {
         // else
         // System.out.println("c is Grater than b & a");
 
+        // =============================================
+
+        // =============================================
+
         // 10. Ternary Operator In Java
         // int i = 4;
         // int result = 0;
@@ -93,6 +105,10 @@ public class Demo2 {
         // result = i % 2 == 0 ? 10 : 20;
 
         // System.out.println(result);
+
+        // =============================================
+
+        // =============================================
 
         // 11. Switch Statement In Java
         // int i = 1;

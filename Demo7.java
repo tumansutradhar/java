@@ -8,6 +8,10 @@
 //     }
 // }
 
+// =============================================
+
+// =============================================
+
 // class staticMethod {
 //     String brand;
 //     int price;
@@ -21,6 +25,10 @@
 //         System.out.println("The brand is " + a.brand + " & The price is " + a.price + " & The type is " + type);
 //     }
 // }
+
+// =============================================
+
+// =============================================
 
 // class staticBlock {
 //     String brand;
@@ -55,6 +63,10 @@ public class Demo7 {
         // System.out.println(sb1.capacity());
         // System.out.println(sb1);
 
+        // =============================================
+
+        // =============================================
+
         // 25. Static Variable In Java
         // staticVar obj1 = new staticVar();
         // obj1.brand = "Samsung";
@@ -70,6 +82,10 @@ public class Demo7 {
 
         // obj1.show();
         // obj2.show();
+
+        // =============================================
+
+        // =============================================
 
         // 26. Static Method In Java
         // staticMethod obj1 = new staticMethod();
@@ -88,6 +104,10 @@ public class Demo7 {
         // obj2.show();
 
         // staticMethod.test(obj1);
+
+        // =============================================
+
+        // =============================================
 
         // 27. Static Block In Java
         // staticBlock obj1 = new staticBlock();

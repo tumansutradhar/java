@@ -3,11 +3,19 @@
 //     int add(int n1, int n2);
 // }
 
+// =============================================
+
+// =============================================
+
 // class CustomException extends Exception {
 //     public CustomException(String message) {
 //         super(message);
 //     }
 // }
+
+// =============================================
+
+// =============================================
 
 // class Throws {
 //     public void show() {
@@ -33,10 +41,18 @@ public class Demo16 {
         // int result = obj.add(5, 5);
         // System.out.println(result);
 
+        // =============================================
+
+        // =============================================
+
         // 60. Types Of Interface In Java
         // a) Marker Interface[doesn't have any methods or fields]
         // b) Single Abstract Method (SAM) Interface / Functional Interface[exactly one abstract method]
         // c) Normal Interface[multiple abstract methods as well as default and static methods]
+
+        // =============================================
+
+        // =============================================
 
         // 61. Exception Handling Using "try-catch" In Java
         // int n1 = 2;
@@ -49,6 +65,10 @@ public class Demo16 {
         // }
 
         // System.out.println(n2);
+
+        // =============================================
+
+        // =============================================
 
         // 62. Multiple Catch Blocks In Java
         // try {
@@ -66,6 +86,10 @@ public class Demo16 {
         // System.out.println(e.getMessage());
         // }
 
+        // =============================================
+
+        // =============================================
+
         // 63. Exception Throw Keyword In Java
         // try {
         // int age = 17;
@@ -77,6 +101,10 @@ public class Demo16 {
         // } catch (Exception e) {
         // System.out.println(e.getMessage());
         // }
+
+        // =============================================
+
+        // =============================================
 
         // 64. Custom Exception In Java
         // int i = 20;
@@ -95,6 +123,10 @@ public class Demo16 {
         // } catch (Exception e) {
         // System.out.println("An error occurred: " + e.getMessage());
         // }
+
+        // =============================================
+
+        // =============================================
 
         // 65. Ducking Exception Using Throws In Java
         // Throws obj = new Throws();

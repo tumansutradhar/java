@@ -25,6 +25,10 @@
 //     }
 // }
 
+// =============================================
+
+// =============================================
+
 // class Casting {
 //     public void show1() {
 //         System.out.println("Showing in parent class");
@@ -61,14 +65,22 @@ public class Demo12 {
 
         // System.out.println(obj1.hashCode());
 
+        // =============================================
+
+        // =============================================
+
         // 44. UpCasting & Downcasting In Java
-        // a) Upcasting
+        // a) UpCasting
         // Casting obj = (Casting) new castingCopy();
         // obj.show1();
 
         // b) DownCasting
         // castingCopy obj1 = (castingCopy) obj;
         // obj1.show2();
+
+        // =============================================
+
+        // =============================================
 
         // 45. Wrapper Class In Java
         // a) Boxing

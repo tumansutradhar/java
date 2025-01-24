@@ -22,6 +22,10 @@
 //     }
 // }
 
+// =============================================
+
+// =============================================
+
 // class A {
 //     public void show() {
 //         System.out.println("Method Show In A");
@@ -37,6 +41,10 @@
 //         System.out.println("Method Show In B");
 //     }
 // }
+
+// =============================================
+
+// =============================================
 
 // class myCalculator {
 //     public int add(int n1, int n2) {
@@ -73,6 +81,10 @@ public class Demo10 {
         // System.out.println(multiply);
         // System.out.println(division);
 
+        // =============================================
+
+        // =============================================
+
         // 35. Single & Multilevel Inheritance In Java
         // AdvancedCalculator obj = new AdvancedCalculator();
 
@@ -80,9 +92,17 @@ public class Demo10 {
 
         // System.out.println(power);
 
+        // =============================================
+
+        // =============================================
+
         // 36. This & Super Method In Java
         // B obj = new B();
         // B Obj = new B(5);
+
+        // =============================================
+
+        // =============================================
 
         // 37. Method Overriding In Java
         // B obj = new B();
