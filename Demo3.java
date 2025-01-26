@@ -23,10 +23,8 @@ public class Demo3 {
         // i++;
         // }
 
-        // System.out.println(i + ". </>");
-
         // b) Do While Loop In Java
-        // int i = 7;
+        // int i = 1;
 
         // do {
         // System.out.println(i + ". Hello World!");
